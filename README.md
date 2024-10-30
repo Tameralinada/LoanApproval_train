@@ -1,4 +1,4 @@
-#Loan Approval Prediction  
+# Loan Approval Prediction  
 This repository contains a Jupyter Notebook that analyzes and builds a predictive model for loan approval. The data was provided by Dream Housing Finance, a home loan provider serving customers across urban, semi-urban, and rural areas. The goal is to predict if a loan application will be approved based on various applicant features, which are discussed in detail.
 
 ### Dataset  
